@@ -1,0 +1,74 @@
+.blog-box {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.blog-box h3 {
+    margin: 20px 0;
+    font-size: 22px;
+    color: #000;
+}
+
+.blog-box p {
+    color: #666;
+}
+
+.blog-box span,
+.posted-on span {
+    font-style: italic;
+    color: #000;
+}
+
+.blog-box img {
+    width: 100%;
+    height: 250px;
+}
+
+.mtb-40 {
+    margin: 40px 0;
+}
+
+.blog-right h3 {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 20px;
+}
+
+.detail-img {
+    margin: 40px 0px;
+}
+
+.rb-box-img {
+    margin-right: 15px;
+}
+
+.rb-box-img img {
+    width: 100px;
+}
+
+.rb-box {
+    display: flex;
+}
+
+.rb-box-desc h4 {
+    font-size: 20px;
+    color: #000;
+    font-weight: 600;
+}
+
+.rb-box-desc p {
+    color: #666;
+}
+
+.rb-box {
+    margin-bottom: 10px;
+}
+
+.recent-post a:hover {
+    text-decoration: none;
+}
+
+.recent-post a:hover h4 {
+    color: #007EDB;
+}

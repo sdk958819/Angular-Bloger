@@ -1,0 +1,9 @@
+.navbar-brand img{
+    height: 60px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:rgb(150, 144, 144);
+}
+.navbar-dark .navbar-nav .active .nav-link {
+    color:#fff;
+}

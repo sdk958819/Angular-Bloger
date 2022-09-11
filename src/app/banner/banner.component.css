@@ -1,0 +1,36 @@
+.banner img {
+    width: 100%;
+    height: 100vh;
+}
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    left: 0;
+    top: 87px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.banner-box {
+    position: relative;
+}
+
+.intro-text {
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    color: #fff;
+    z-index: 111;
+}
+
+.intro-text-box {
+    width: 62%;
+    margin: auto;
+    background-color: rgba(96, 96, 96, 0.6);
+    padding: 20px;
+    border: 10px solid #fff;
+}
+
+.intro-text-box h1 {
+    font-size: 3em;
+}

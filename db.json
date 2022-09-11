@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fileImg": null,
+      "name": "fdsfsd",
+      "email": "dsfsdf",
+      "address": "dsfds",
+      "pinCode": 6556
+    },
+    {
+      "id": 2,
+      "fileImg": "C:\\fakepath\\ssss.PNG",
+      "name": "cxvcvcx",
+      "email": "cxvxcv",
+      "address": "vcxv",
+      "pinCode": 2656
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
